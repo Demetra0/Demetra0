@@ -27,10 +27,11 @@ I have a rich experience in conducting Node.js interviews, code reviews, and men
 ![Bull.js](https://img.shields.io/badge/bull.js-%23DB0A40?style=for-the-badge&logo=redbull&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/socket.io-%23010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-%234D4D4D?style=for-the-badge&logo=Keycloak&logoColor=white)
-
+![Stripe](https://img.shields.io/badge/stripe-%23008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Telegraf](https://img.shields.io/badge/telegraf-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Technologies
-
+![Microservices](https://img.shields.io/badge/microservices-green?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitlabCI](https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
