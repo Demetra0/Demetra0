@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🟢 Node.js Backend Developer
 ----------------------------
 
-I am a Senior Backend Developer and TeamLead. I have been in IT for 4 years, leading teams for the last 2 years and excellently transferring jsons in microservices 🧑‍🎨 
+I am a Senior Backend Developer and TeamLead. I have been in IT for 5 years, leading teams for the last 2 years and excellently transferring jsons in microservices 🧑‍🎨 
 
 I have a rich experience in conducting Node.js interviews, code reviews, and mentoring ✨. I have brought a dozen startups to production, one of them is a dating service in the USA. 
 
